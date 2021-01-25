@@ -1,0 +1,36 @@
+#fondo {
+    background-color: lightgray;
+    width: 100%;
+}
+
+#bVerde {
+    float: right;
+}
+
+#corazon {
+    color: gray;
+}
+
+#menupuntos {
+    color: gray;
+}
+
+.img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+#video5 {
+   
+    width: 100%;
+    height: 100%;
+}
+
+
+a, a:hover {
+  color: gray;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: gray;
+}
